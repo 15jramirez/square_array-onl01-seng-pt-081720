@@ -2,8 +2,8 @@ def square_array(array)
   array.each do |array| 
     puts array ** 2
   
-    
-    return array
   end
+    return array
+
     
 end
