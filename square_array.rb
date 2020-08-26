@@ -1,5 +1,5 @@
 def square_array(array) 
-  new_array = []
+  squred_numbers_in_array = []
   array.each do |i|
     i ** 2
   new_array.push(i**2)
